@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+/*sub_visual*/
+.sub_visual{height:424px;}
+.sub_visual.bg1{background:url(../image/about/vis_bg.jpg) no-repeat center center}
+
+.sub_visual .inner > div{color:#fff; padding-top:200px;}
+
+/****************************대표인사******************************/
+
+
+
+/****************************재정지원******************************/
